@@ -1,0 +1,29 @@
+.fa3q {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.fa-3x-3q {
+  font-size: 3em;
+}
+.fa3q.fa-pull-left {
+  margin-right: .3em;
+}
+.fa3q.fa-pull-right {
+  margin-left: .3em;
+}
+.fa3q.pull-left {
+  margin-right: .3em;
+}
+.fa3q.pull-right {
+  margin-left: .3em;
+}
+.fa-times3q:before {
+  content: "\f00d";
+}
+.fa-plus3q:before {
+  content: "\f067";
+}

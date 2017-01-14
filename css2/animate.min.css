@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.fadeInUp2q {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp
+}
